@@ -49,6 +49,8 @@ This project is licensed under the MIT License.
 ⭐️ If you like this project, please give it a star!
 
 ---
+![9-in-1-board ](https://github.com/user-attachments/assets/883553e1-e098-433b-86ab-dbb1ff12fd57)
+
 
 Made with ❤️ for easy and efficient Arduino prototyping! 🚀
 
